@@ -16,8 +16,24 @@
 - [References](#references)
 
 ## Project Overview
-
+---
 The dataset provides comprehensive information on video game sales, covering various aspects such as platforms, genres, publishers, developers, and sales data across different regions.
+
+`Title: Name of the game`
+`Console: Platform the game is available on (e.g., PS4, Xbox One, Switch)`
+`Genre: Type of game (e.g., Action, Shooter, Sports)`
+`Publisher: Company that published the game`
+`Developer: Company that developed the game`
+`Critic Score: Average score given by critics`
+`Total Sales: Total worldwide sales in millions of copies`
+`NA Sales: Sales in North America (millions)`
+`JP Sales: Sales in Japan (millions)`
+`PAL Sales: Sales in Europe, Australia, and other PAL regions (millions)`
+`Other Sales: Sales in other regions (millions)`
+`Release Date: Date the game was released`
+`Last Update: Date when the data was last updated`
+
+
 
 ## video_games_sales_dashboard 
 ![Screenshot (77)](https://github.com/Jimat0412/Video_game_sales/assets/164656028/4e244046-8b5e-447c-b591-e3bdd5c51eec)
@@ -113,7 +129,14 @@ Based on the analysis We recommend the following actions:
 VGChartz provides comprehensive video game sales data, which often serves as the basis for sales figures and trends in the industry.
  - [vgchartz](https://www.vgchartz.com/)
 
+😃
 
+💻
+
+🎮
+|Heading1|Heading2|
+|--------|--------|
+|Microsoft Excel|PowerBI| 
 
 
 
