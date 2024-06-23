@@ -19,6 +19,13 @@
 
 The dataset provides comprehensive information on video game sales, covering various aspects such as platforms, genres, publishers, developers, and sales data across different regions.
 
+## video_games_sales_dashboard 
+![Screenshot (77)](https://github.com/Jimat0412/Video_game_sales/assets/164656028/4e244046-8b5e-447c-b591-e3bdd5c51eec)
+
+![Screenshot (78)](https://github.com/Jimat0412/Video_game_sales/assets/164656028/0e5fab85-7e8c-40a0-8405-e82ea46c32f3)
+
+
+
 ### Data Sources 
 
 the primary dataset used for this analysis is the "vgchartz-2024 CSV" file, containing detailed information about sales made throughout the years.
